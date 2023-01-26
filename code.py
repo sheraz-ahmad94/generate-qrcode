@@ -21,4 +21,3 @@ url = input("Enter URL: ")
 qrCodeGen(url)
 
 print("Code Generated Successfully!")
-
